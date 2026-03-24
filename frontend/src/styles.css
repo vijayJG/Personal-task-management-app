@@ -1,0 +1,27 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 40px;
+}
+
+input {
+  padding: 20px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 16px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+li {
+  margin-top: 10px;
+}
+h2 {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+button {
+  margin-left: 5px;
+}

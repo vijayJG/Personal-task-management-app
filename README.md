@@ -163,6 +163,3 @@ Relationship:
 
 ---
 
-## Conclusion
-
-This project demonstrates the fundamentals of full-stack development, including frontend-backend integration, RESTful API design, and database interaction. It is suitable as a beginner-level project to showcase
